@@ -1,4 +1,7 @@
-<center>
+<html>
+<body>
+
+	<center>
 		<div id="flashContent">
 			<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="800" height="600" id="ugrgame" align="middle">
 				<param name="movie" value="ugrgame.swf"/>
@@ -33,5 +36,7 @@
 			</object>
 			
 		</div> 
-	</center></body>
+	</center>
+
+</body>
 </html>
