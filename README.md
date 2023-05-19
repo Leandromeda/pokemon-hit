@@ -1,2 +1,2 @@
 # Pokemon-Hit
-Jogo de minha autoria multiplataforma disponível para Android KitKat 4.4 e versões inferiores. Também jogável por emuladores de Android.
+Jogo multiplataforma de minha exclusiva autoria via linguagem Action-Script e arquitetura Flash disponível para Android KitKat 4.4 e versões inferiores. Também jogável por emuladores de Android.
